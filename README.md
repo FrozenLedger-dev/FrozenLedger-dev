@@ -22,34 +22,9 @@
 </div>
 
 -----
+
 <table width="100%">
   <tr>
-    <td align="left" width="40%">
-      <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=coinhole&style=plastic&color=blueviolet" alt="Profile Views" />
-      </div>
-      <br>
-      <div align="center">
-        <a href="mailto:bluedragon47174@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-        <a href="https://discord.com/users/<your_user_id>">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white" alt="Discord" />
-        </a>
-        <a href="https://t.me/hinatasugimoto">
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram" />
-        </a>
-        <a href="https://wa.me/<your_wa_number>">
-          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-        </a>
-        <a href="https://github.com/coinhole">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-      </div>
-      <h4>
-        Welcome to my GitHub profile!<br>
-        Don't forget to give ⭐star⭐ and 👍follow👍 me on GitHub.</h4>
-    </td>
     <td align="right" width="50%">
       <img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
     </td>
@@ -298,3 +273,31 @@
 </div>
 
 ---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=coinhole&style=plastic&color=blueviolet" alt="Profile Views" />
+</div>
+<br>
+<div align="center">
+<a href="mailto:bluedragon47174@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://discord.com/users/<your_user_id>">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://t.me/hinatasugimoto">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://wa.me/<your_wa_number>">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://github.com/coinhole">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</div>
+
+-----
+
+<h4>
+	Welcome to my GitHub profile!    Don't forget to give ⭐star⭐ and 👍follow👍 me on GitHub.
+</h4>
