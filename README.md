@@ -7,8 +7,7 @@
         src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prince+Kitty;❤Senior+Blockchain+Developer❤;+Passinate+and+Reliable+Developer;" />
     </h1>
   </div>
-  
------
+
 <!-- ❤ About Me 💫
 
 <h3>
@@ -16,6 +15,7 @@
   I'm also proficient in Rust, Go, and Move, and have experience with various smart contract platforms and networks.<br>
   I'm always looking for new challenges and opportunities to learn and grow.<br>
 </h3> -->
+
 <div align="center">
 	<br>
   <img src="aboutme.svg" width="1000" height="auto" alt="Click to see the source">
@@ -268,14 +268,14 @@
       width="450" height="200"/> -->
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=coinhole&show_icons=true&locale=en&include_all_commits=true&count_private=true&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-      width="700" height="300" alt="coinhole" />
+     alt="coinhole" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=coinhole&style=plastic&color=blueviolet" alt="Profile Views" />
+	<img src="https://komarev.com/ghpvc/?username=coinhole&style=plastic&color=blueviolet" alt="Profile Views" />
 </div>
 <br>
 <div align="center">
@@ -298,6 +298,6 @@
 
 -----
 
-<h4>
+<h4 align="center">
 	Welcome to my GitHub profile!    Don't forget to give ⭐star⭐ and 👍follow👍 me on GitHub.
 </h4>
