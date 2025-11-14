@@ -83,11 +83,11 @@
 
 ### AI & Agentic Systems
 <div align="center">
-  <img src="./assets/ai/openai.png" alt="OpenAI" width="48" height="48" style="margin: 8px;" />
+  <img src="./assets/ai/openai.svg" alt="OpenAI" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/ai/deepseek.svg" alt="DeepSeek" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/ai/Langchain.svg" alt="LangChain" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/ai/huggingface.svg" alt="HuggingFace" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/ai/eliza.jpg" alt="ElizaOS" width="48" height="48" style="margin: 8px;" />
+  <img src="./assets/ai/eliza.webp" alt="ElizaOS" width="48" height="48" style="margin: 8px;" />
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" style="margin: 8px;" /></a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" style="margin: 8px;" /></a>
   <img src="./assets/ai/ollama.svg" alt="Ollama" width="48" height="48" style="margin: 8px;" />
