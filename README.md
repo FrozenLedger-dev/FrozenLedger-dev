@@ -4,30 +4,14 @@
 <div width="100%">
     <h1 align="center">
       <img
-        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prince+Kitty;❤Senior+Blockchain+Developer❤;+Passinate+and+Reliable+Developer;" />
+        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;❤Senior+Blockchain+Developer❤;+Passinate+and+Reliable+Developer;" />
     </h1>
   </div>
-
-<!-- ❤ About Me 💫
-
-<h3>
-  I'm a passionate blockchain developer with a strong focus on Solana, EVM, Aptos, Cardano and so on.<br>
-  I'm also proficient in Rust, Go, and Move, and have experience with various smart contract platforms and networks.<br>
-  I'm always looking for new challenges and opportunities to learn and grow.<br>
-</h3> -->
 
 <div align="center">
 	<br>
   <img src="aboutme.svg" width="1000" height="auto" alt="Click to see the source">
 </div>
-
-<table width="100%">
-  <tr>
-    <td align="right" width="50%">
-      <img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-    </td>
-  </tr>
-</table>
 
 -----
 
@@ -113,14 +97,7 @@
 <br>
 
 <div align="center" width="100%">
-  <a href="https://github.com/coinhole/">
-    <!-- <img
-      src="https://github-readme-stats.vercel.app/api?username=coinhole&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-      width="450" height="200"/> -->
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=coinhole&show_icons=true&locale=en&include_all_commits=true&count_private=true&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-     alt="coinhole" />
-  </a>
+
 </div>
 
 ---
