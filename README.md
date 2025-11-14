@@ -56,11 +56,11 @@
       <p font-size="10px">GoLang</p>
     </td>
     <td align="center" width="60px">
-      <img src="./move.png" width="30px" height="30px" alt="Move" /><br>
+      <img src="./assets/language/move.png" width="30px" height="30px" alt="Move" /><br>
       <p font-size="10px">Move</p>
     </td>
     <td align="center" width="60px">
-      <img src="./funC.png" width="30px" height="30px" alt="Func" /><br>
+      <img src="./assets/language/funC.png" width="30px" height="30px" alt="Func" /><br>
       <p font-size="10px">FunC</p>
     </td>
     <td align="center" width="60px">
@@ -68,58 +68,58 @@
       <p font-size="10px">Python</p>
     </td>
     <td align="center" width="60px">
-      <img src="./foundry.png" alt="icon" width="30px" height="30px" /><br>
+      <img src="./assets/framework/foundry.png" alt="icon" width="30px" height="30px" /><br>
       <p font-size="10px">Foundry</p>
     </td>
     <td align="center" width="60px">
-      <img src="./hardhat.svg" alt="HardHat" width="30px" height="30px" /><br>
+      <img src="./assets/framework/hardhat.svg" alt="HardHat" width="30px" height="30px" /><br>
       <p font-size="10px">HardHat</p>
     </td>
     <td align="center" width="60px">
-      <img src="./anchor.png" alt="Anchor" width="30px" height="30px" /><br>
+      <img src="./assets/framework/anchor.png" alt="Anchor" width="30px" height="30px" /><br>
       <p font-size="10px">Anchor</p>
     </td>
   </tr>
   <!-- network -->
   <tr>
     <td align="center" width="60px">
-      <img src="./icons/solana.png" width="30px" height="30px"><br>
+      <img src="./assets/chain/solana.png" width="30px" height="30px"><br>
       <p font-size="10px">Solana</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/ethereum.png" width="30px" height="30px"><br>
+      <img src="./assets/chain/ethereum.png" width="30px" height="30px"><br>
       <p font-size="10px">Ethereum</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/Bitcoin.svg" width="30px" height="30px"><br>
-      <p font-size="10px">Bitcoin</p>
+      <img src="./assets/chain/binance.png" width="30px" height="30px"><br>
+      <p font-size="10px">BNB Chain</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/aptos1.png" width="30px" height="30px"><br>
+      <img src="./assets/chain/aptos.png" width="30px" height="30px"><br>
       <p font-size="10px">Aptos</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/polkadot1.png" width="30px" height="30px"><br>
+      <img src="./assets/chain/polkadot1.png" width="30px" height="30px"><br>
       <p font-size="10px">Polkadot</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/cosmos.png" width="30px" height="30px"><br>
+      <img src="./assets/chain/cosmos.png" width="30px" height="30px"><br>
       <p font-size="10px">Cosmos</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/polygon1.png" width="30px" height="30px"><br>
+      <img src="./assets/chain/polygon.png" width="30px" height="30px"><br>
       <p font-size="10px">Polygon</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/ton.png" width="30px" height="30px"><br>
+      <img src="./assets/chain/ton.png" width="30px" height="30px"><br>
       <p font-size="10px">Ton</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/trx.png" width="30px" height="30px"><br>
+      <img src="./assets/chain/trx.png" width="30px" height="30px"><br>
       <p font-size="10px">Tron</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/sui.png" width="30px" height="30px"><br>
+      <img src="./assets/chain/sui.png" width="30px" height="30px"><br>
       <p font-size="10px">Sui</p>
     </td>
   </tr>
@@ -214,23 +214,23 @@
   <!-- common -->
   <tr>
     <td align="center" width="60px">
-      <img src="./icons/openai.png" width="30px" height="30px" alt="binance" /><br>
+      <img src="./assets/ai/openai.png" width="30px" height="30px" alt="OpenAI" /><br>
       <p font-size="10px">OpenAI</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/deepseek.svg" width="30px" height="30px" alt="DeepSeek" /><br>
+      <img src="./assets/ai/deepseek.svg" width="30px" height="30px" alt="DeepSeek" /><br>
       <p font-size="10px">DeepSeek</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/Langchain.svg" width="30px" height="30px" alt="LangChain" /><br>
+      <img src="./assets/ai/Langchain.svg" width="30px" height="30px" alt="LangChain" /><br>
       <p font-size="10px">LangChain</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/huggingface.svg" width="30px" height="30px" alt="HuggingFace" /><br>
+      <img src="./assets/ai/huggingface.svg" width="30px" height="30px" alt="HuggingFace" /><br>
       <p font-size="10px">Hugging Face</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/eliza.jpg" width="30px" height="30px" alt="Eliza" /><br>
+      <img src="./assets/ai/eliza.jpg" width="30px" height="30px" alt="Eliza" /><br>
       <p font-size="10px">ElizaOS</p>
     </td>
     <td align="center" width="60px">
@@ -242,7 +242,7 @@
       <p font-size="10px">PyTorch</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/ollama.svg" width="30px" height="30px" alt="Ollama" /><br>
+      <img src="./assets/ai/ollama.svg" width="30px" height="30px" alt="Ollama" /><br>
       <p font-size="10px">Ollama</p>
     </td>
     <td align="center" width="60px">
@@ -250,7 +250,7 @@
       <p font-size="10px">FastAPI</p>
     </td>
     <td align="center" width="60px">
-      <img src="./icons/vapi.png" width="45" alt="VApi" /><br>
+      <img src="./assets/framework/vapi.png" width="45" alt="VApi" /><br>
       <p font-size="10px">VApi</p>
     </td>
   </tr>
