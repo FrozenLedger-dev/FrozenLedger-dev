@@ -100,13 +100,13 @@
 </div>
 <br>
 <div align="center">
-<a href="mailto:bluedragon47174@gmail.com">
+<a href="mailto:#">
   <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://discord.com/users/<your_user_id>">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white" alt="Discord" />
 </a>
-<a href="https://t.me/hinatasugimoto">
+<a href="https://t.me/<your_user_id>">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 <a href="https://wa.me/<your_wa_number>">
