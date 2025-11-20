@@ -122,3 +122,10 @@
 <h4 align="center">
   Welcome to my GitHub profile!    Don't forget to give ⭐star⭐ and 👍follow👍 me on GitHub.
 </h4>
+
+-----
+
+<p align = "center">&nbsp;
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=FrozenLedger-dev&show_icons=true&locale=en&theme=tokyonight" alt="FrozenLedger-dev" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrozenLedger-dev&theme=2077" height="180em" />
+</p>
