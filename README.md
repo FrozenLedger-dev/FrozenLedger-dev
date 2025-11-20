@@ -5,7 +5,7 @@
 <div width="100%">
     <h1 align="center">
       <img
-        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+❤Senior+Blockchain+and+web3+Developer❤;+Passinate+and+Reliable+Developer;"
+        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+FrozenLedger;❤Senior+Blockchain+and+web3+Developer❤;+Passinate+and+Reliable+Developer;"
         alt="Animated typing text: Hi There! 👋 I'm ❤Senior Blockchain and Web3 Developer❤ Passinate and Reliable Developer" />
     </h1>
   </div>
